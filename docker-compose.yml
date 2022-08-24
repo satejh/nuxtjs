@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  cicdui:
+    build: .
+    container_name: cicdui
+    restart: always
+    ports:
+      - "8044:80"
