@@ -18,11 +18,11 @@
                   dark:text-white
                 "
               >
-                # Stay Inquisitive
+                # Stay Inquisitive 
               </h1>
               <p class="mt-4 ml-2 text-gray-600 dark:text-gray-400">
                 Ask, Learn & Grow Yourself
-                <br>#Blogerpedia
+                <br>#Blogerpedia ##
               </p>
               <button
                 @click="goto('art1')"
