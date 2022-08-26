@@ -18,7 +18,7 @@
                   dark:text-white
                 "
               >
-                # Stay Inquisitive 
+                # Jenkins Build
               </h1>
               <p class="mt-4 ml-2 text-gray-600 dark:text-gray-400">
                 Ask, Learn & Grow Yourself
